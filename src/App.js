@@ -24,4 +24,5 @@ function App() {
   );
 }
 
+// Testing CI build
 export default App;
