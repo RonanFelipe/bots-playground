@@ -33,9 +33,6 @@ jobs:
     - name: Install dependencies
       run: yarn
 
-    - name: Docs
-      run: yarn docs
-
     - name: Build
       run: yarn build
 
