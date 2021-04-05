@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 //React App
+// TODO: Check this function 
 
 function App() {
   return (
@@ -24,4 +25,5 @@ function App() {
   );
 }
 
+// Test
 export default App;
